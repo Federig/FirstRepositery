@@ -1,4 +1,1 @@
-﻿FirstRepositery
-===============
-
-Readme.txt test
+﻿Readme.txt test
